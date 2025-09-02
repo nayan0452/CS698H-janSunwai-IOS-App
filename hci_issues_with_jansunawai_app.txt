@@ -1,0 +1,90 @@
+# Human-Computer Interaction Issues in Jansunwai App
+Based on user reviews, the following Human-Computer Interaction (HCI) issues have been identified:
+
+## 1. Interface Design & Navigation Issues
+
+### Deep Navigation Problems
+- "The department selection list is absolutely blank. The only way to find out what you are selecting is clicking it one by one and see the final heading. If its not your interested department then try hidden and trial method each time." - deepali biswas (May 27, 2022)
+- "The app is like government only, updated regularly, have the ability to perform required tasks but do not work at all. Moreover if it ever opens by mistake, the department list is not translated in English so that you cannot select right department quickly." - Deepesh Grover (May 27, 2022)
+- "App is fine but the government officials are so incompetent and unskilled that I do not expect my task to be properly done." - KK S (March 21, 2022)
+
+### Localization & Language Issues
+- "Even after selection on English language option of department is in Hindi. There is no option to mention issue without selection of department. It becomes difficult to search specific category." - keep walking keep smiling (March 14, 2025)
+- "There has to an option for language English for the DEPARTMENT and DEPARTMENT CATEGORY, because the app has the option for English but the department and its categories are still in hindi." - vikas kumar (March 25, 2025)
+- "Purpose is awesome, but what is the point of giving language options, when all the departments are in Hindi, if I am choosing English language, everything should be in English." - A Google user (June 16, 2019)
+- "My experience with this app is terrible, when I've opted English as my language, so everything should be seen/written in English. But there are Hindi all over this app and not ordinary Hindi/Hinglish but pure Hindi." - David Menon (June 29, 2021)
+
+## 2. Form Design & Input Issues
+
+### Form Fields & Validation Problems
+- "Your proforma to register grievance do not accept mobile no. at column mentioned for mobile no. I. kindly rectify it so that mob.no.may be entered in column mentioned for mobile no. 1." - Mahendra Singh (March 9, 2025)
+- "This is a very bad app. Nobody can lodge any complaint in this app because without mobile number it does not go ahead and mobile number window does not open." - Arvind Vaish (March 7, 2025)
+- "I am registering grievance and on grievance area detail screen, Area field is greyed out and rural is selected by default. Because rural is selected and I cannot change it, as it is read only; I am unable to register complaint." - Chitra Sahai (May 2, 2021)
+- "Important App but app quality is not upto the mark. Many options are grey.. like.. you cannot choose rural or urban while submitting the complaint, which makes the app useless." - Vibhushit Saxena (May 5, 2021)
+
+### Document Upload Issues
+- "This app is good and useful but there is no system of uploading written complaints with enclosure. There is still no proper system to attach documents." - Ravi Jauhari (November 4, 2024)
+- "There is no option to attach more documents and the size of documents is too short (500kb only). While now days mostly gadgets create minimum documents size upto 3-5 MB." - A Google user (February 20, 2019)
+- "I am uploading an image of 405 KB, still getting error that image above 500 KB can not be uploaded. Please fix the bug." - Ankit Maurya (October 16, 2020)
+- "Very good app. But there should be facility to attach more than one document. For example I was required to upload three khataunis but I could upload only one page of first khatauni as there is no option to upload more than one attachment." - A Google user (November 14, 2019)
+
+## 3. System Responsiveness & Stability
+
+### Orientation & Auto-rotate Issues
+- "Jan sunwai application automatically auto rotate. It results to delete all entered entries. Application doesn't have all wards entered. Sometimes application hanging issues issue and automatically close." - Arora Arora (February 25, 2025)
+- "Need some improvement: 1. App keeps auto rotating while auto rotate is turned off. 2. Requests are getting resolved only in the portal not in reality." - Sunny Singh (February 6, 2022)
+- "Nice initiative by CM Yogi to help the common public of uttar pradesh. Immediate action gets initiated by this application and officers comes in action. There is a debug that needs to be fixed the screen auto rotates and comes back to the first page where we start registering for the complaint or demand." - Sandeep Chauhan (March 8, 2021)
+- "Need a lot of improvements. The migration form page refreshes every time phone tilts even a bit (even when phone rotation is off) and we have to start right from the beginning by submitting otp." - Anjali Gupta (May 10, 2020)
+
+### Crashes & Performance Issues
+- "Who is the developer and tester of this application. I have also built mobile apps but this one is of too poor quality. Lots of bugs. I am unable to login after update, not receiving otps." - Dhruv (November 14, 2024)
+- "Most of the time there is some issue with the working of the app like crash, slow running, network problem, maintenance etc. Rubbish app interface." - Abdul (November 1, 2024)
+- "After updation today application is crashing again and again won't able to open the application." - tarun dhyani (October 30, 2024)
+- "Dear Jansunwai Support Team, I am writing to provide feedback regarding the Jansunwai Government App, as I am currently experiencing several issues while using it... I have encountered frequent crashes while attempting to open the app. It often freezes upon launch or abruptly closes, making it impossible for me to access its features." - Gurpreet Singh (July 17, 2023)
+- "This app is very disturbing as its new version is not working on my phone and a dialog box is appearing saying that this app is stopped and also in the previous version its saying that internet connection is not good since a month or two." - A Google user (October 15, 2019)
+
+### Login & OTP Issues
+- "I tried my best to send my complaint through this portal. I clicked for OTP but didn't work. Being compelled I uninstalled it." - K Alam (March 22, 2025)
+- "App is not working properly. OTP for complaint submission is not coming. Due to this complaint is not registered. Please have a look on it." - deepak yadav (December 14, 2024)
+- "Poor experience. Always gets stuck at the Send OTP for registration page." - Nimit Arora (December 13, 2024)
+- "Dear all, don't waste your time on this app. They don't send OTP on your mobile, there is no provision to send OTP on your e-mail." - A Legend Gamer 2.0 (June 5, 2022)
+
+## 4. Feedback & Error Handling
+
+### Feedback System Issues
+- "The feedback system is not working in this app or website. I could not fill the feedback of any complaint. Please resolve this issue as soon as possible in both app and website." - K.R K.G (February 25, 2025)
+- "Complaints are being special closed without any feedback options. Higher officers are not involved. Without any enquiry, 99% complaints disposed off even without reading the complaint." - shashikant madheshiya (March 6, 2025)
+- "Feedback feature doesn't let you submit your response and same goes for reminders. Since it never ever allows you to submit responses inspite of trying hundred times stating some error...it seems it's done on purpose to let the complaining party not be able to give feedback." - Surajkali Chaturvedi (May 20, 2022)
+- "It is just useless app as all the complaints are closed prematurely without any investigation or resolution. And u can't give feed back to the same as your feedback will not be submitted although they have a option for feedback but it does not work." - chand umar (May 24, 2024)
+
+### Error Messages & Handling
+- "Very bad experience... I dont know why but when ever i try to track my e pass status, some unknown characters appears on screen." - dharavath ganesh (May 10, 2020)
+- "I am unable to see anything on the app from the past 3-4 days. None of the complaints which i made and are still pending are showing in the app. It just keep processing and then a message comes that 'some network issue please try after some time' and it is happening from the past 3-4 days." - A Google user (October 6, 2019)
+- "After submitting the application, I got a complaint number. Upon checking the status of the complaint filed, it displays phone number/email id cannot be linked to any complaint number. No such complaint can be found in the app." - Pratham Singh (August 14, 2024)
+- "Track grievances option never works. I can register as many grievances as I want but when I try to open track grievances, error shows app is experiencing network issues." - Anuj Singh (July 6, 2024)
+
+## 5. Privacy & Permissions Issues
+
+### Excessive Permissions Requests
+- "I don't understand why the need to access contact list messages and manage phone calls... if the permissions are not granted you can't use this application. I don't feel the need to share my phones contact or call permissions. There has to be a valid reason for it." - ILA DAVID (October 26, 2024)
+- "Why you need my privacy details like contact access, location access with these kind of access your app will not work. Provide the reason please." - Tiwari Vinay (February 14, 2025)
+- "The app is good for make complaint. But after installing when we open the app it asks for call and contacts permission that is not important for making the complaint. It seems the developer wants to take call and contacts permission and they misuse our data." - Harishchand Gupt (March 13, 2023)
+- "Worst app ever. Asks for several permission like contacts, phone, location files and media, raises suspicion than I think govt is spying on installer's data. And notification to give permission is constantly displayed on screen, though app is not in use. Total Harassment." - MAHENDRA S (April 4, 2021)
+- "I wanted to try this Jansunwai App. But after installation, it wants permission to access my contacts and make & manage phone calls. I denied the permission and without the permission it won't run. @UPGovt WHY does the app need these permission to run?" - A Google user (October 19, 2019)
+
+## 6. Workflow & User Experience Issues
+
+### Feature Improvement Suggestions
+- "Hello Developer Team, App is good but i have few observations which could help the end-user utilize it much more better. 1. When we go to feedback section and need to enter the complaint number which is a bit time taking. So you can create a drop-down option with the related phone number registered complaint and we can select them easily. 2. When we see the status of the complaint and if any document is uploaded from any officer then i cannot download that document." - A Google user (August 12, 2019)
+- "App is great. Only if they could bring a search bar for selection of the appropriate department. Browsing through so many options is a tedious task." - Aniruddh Shukla (September 13, 2022)
+- "And why can't you use GPS to detect location automatically instead expecting from user to fill it manually, are you living in 90's??" - Ankit Maurya (October 16, 2020)
+- "The app has an inherent Deficiency. It doesn't send the complaint to correct person. The complaints returned with comment that it is not related to that particular office/officer is not redirected to correct person." - Abdul Alvi (November 29, 2022)
+
+### Data Persistence & History Issues
+- "Very poor performance. I have registered 4 complaints in this app, all were addressed, I uninstalled it. Now when I register with same mobile it shows no complaint registered with this mobile number. Data should be provided/linked for registered mobile number so that individual can refer it at any time." - surendra kumar (January 10, 2025)
+- "Worst App...I don't know why the most government apps are so frustrating. Does our government not pay to the maker of the apps?? When I lodge a complaint from my number and tried to track that complaint, it shows 'NO COMPLAINT REGISTERED FROM THIS NUMBER. PLEASE CHECK COMPLAINT FROM ANOTHER NUMBER'. What is this?" - anshuman gupta (July 2, 2023)
+- "Worst App, so much technical problems, my whole complaint list is vanished automatically, I'm unable to find it completely, please provide an update to fix this problem." - Chandan Singh (July 5, 2024)
+- "Attachments don't show up in the final complaint. When looking at the complaint in the tracking view... the attachment which was made when submitting the complaint... can no longer be found. That's a very serious issue." - Varun India (December 24, 2023)
+
+## Conclusion
+The identified HCI issues show significant problems with interface design, form functionality, system stability, feedback mechanisms, privacy concerns, and overall workflow. Many of these issues appear to severely impact the user experience and the app's core functionality of submitting and tracking complaints. The high number of people finding these critical reviews helpful suggests these are common problems experienced by many users. 

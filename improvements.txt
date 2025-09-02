@@ -1,0 +1,4 @@
+1. Add a progress bar to the top of the screen that shows the progress of the form.
+2. Add a success alert that shows the complaint ID and allows the user to dismiss it (beacause it user wasnt sure of the state of application).
+3. Add a navigation bar at the top of the screen with a back button that returns to the previous view, and a menu button that opens a dropdown with options to navigate to: Dashboard, Register Complaint, Track Complaints, Profile, Settings, Language Selection, Login, and Register.
+4. added a option to register complaints and track complaints without login
